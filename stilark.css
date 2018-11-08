@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body {
+  background-color: #ebf0f1;
+  padding-left: 0;
+  padding-right:0 ;
+  margin: 0;
+}
+.p1{
+  padding-top: 40px;
+}
+.p2{
+  font-weight: bold;
+}
+.p3{
+  font-weight: bold;
+}
+.p4{
+  font-weight: bold;
+}
+* {
+  margin-top: 0;
+  margin-left: 0;
+}
+
+h1 {
+  font-family: "Indie Flower", sans-serif;
+  background-color: #ffa366;
+  background-size: cover;
+  text-align: center;
+  font-size: 300%;
+  height: 120px;
+  padding-top: 55px;
+}
+
+.robot {
+  font-weight: bold;
+  font-size: 150%;
+  padding-left: 2%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.player {
+  font-weight: bold;
+  font-size: 150%;
+  padding-left: 2%;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  margin-right: 3%;
+  padding-left: 2%;
+}
+
+#maskin {
+  margin-left: 15%;
+}
+#vinnertekst{
+  font-family: 'Roboto', sans-serif;
+  font-size: 100%;
+  font-weight: bold;
+  color: black;
+
+}
+a{
+  font-family: 'Roboto', sans-serif;
+  font-size: 100%;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+a:hover{
+  background-color: #f29252;
+
+}
+.Vinner {
+  margin-top: 5%;
+  padding-top: 5%;
+  padding-left: 2%;
+  background-color: #ffa366;
+  background-size: cover;
+  height: 300px;
+  width: cover;
+}
+
+#nyHTML {
+    padding: 20px;
+    background-color: #ffa366;
+}
+#nyHTML:hover {
+  background-color: #f29252;
+}
+.test{
+  background-color: #ffa366;
+  width: 100%;
+  padding-top: 30px
+}
